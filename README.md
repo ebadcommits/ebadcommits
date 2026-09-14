@@ -167,13 +167,13 @@ A responsive restaurant experience focused heavily on visual design, animations 
 
 <td width="50%">
 
-### 🧑‍💻 Portfolio
+### ✅ Task Manager
 
-My personal portfolio — bringing together my projects, skills and frontend journey in one place.
+A responsive task management application built with React and Tailwind CSS to practice the core concepts of building interactive React applications
 
-**Focus:** Frontend · JavaScript · Personal Branding
+**Focus:** React · Vite · Javascript (ES6+) · Tailwind CSS
 
-<a href="https://github.com/ebadcommits/Portfolio">View Repository →</a>
+<a href="https://github.com/ebadcommits/Task-Manager">View Repository →</a>
 
 </td>
 </tr>
@@ -229,7 +229,7 @@ Follow along on LinkedIn if you'd like to see the process.
 
 ---
 
-# 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -237,15 +237,12 @@ Follow along on LinkedIn if you'd like to see the process.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebadcommits&layout=compact&hide_border=true&theme=transparent" height="170" />
 
-</div>
-
 <br/>
-
-<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=ebadcommits&hide_border=true&theme=transparent" />
 
 </div>
+
 
 ---
 
