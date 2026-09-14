@@ -34,24 +34,38 @@ I enjoy working where **development, design and creativity** meet.
 
 ## ⚡ Stack
 
-<p align="center">
+### Frontend
+
+<p>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 
 </p>
 
-<p align="center">
+### Tools & Workflow
 
-<sub>
-Also experienced with Premiere Pro · After Effects · CapCut · Prompt Engineering
-</sub>
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/AI--Assisted_Development-6E56CF?style=flat-square" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=flat-square" />
+
+</p>
+
+### Creative
+
+<p>
+
+<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" />
+<img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" />
+<img src="https://img.shields.io/badge/CapCut-000000?style=flat-square" />
 
 </p>
 
@@ -161,19 +175,35 @@ A responsive restaurant interface focused on visual design, animation and polish
 
 I'm starting to share the **process**, not just the finished projects.
 
-Learning → Building → Breaking → Debugging → Improving → Shipping.
+**Learning → Building → Breaking → Debugging → Improving → Shipping**
 
 Follow the journey on LinkedIn.
 
+---
+
+## 🤝 Connect
+
 <div align="center">
 
+<a href="https://ebadcommits.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-161B22?style=for-the-badge" />
+</a>
+
 <a href="https://www.linkedin.com/in/ebad-sheikh-35095a251/">
-<img src="https://img.shields.io/badge/Follow_the_Journey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+<a href="https://github.com/ebadcommits">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:ibbee000@outlook.com">
+<img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=microsoftoutlook&logoColor=58A6FF" />
 </a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
