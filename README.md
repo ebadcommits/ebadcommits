@@ -1,144 +1,293 @@
+<!-- ========================= -->
+
+<!--        HERO SECTION        -->
+
+<!-- ========================= -->
+
+<div align="center">
+
 # Hey, I'm Ebad 👋
 
-### Frontend Developer building for the web.
+### Frontend Developer • Creative Builder • Lifelong Learner
 
-I'm a self-taught developer who enjoys turning ideas into **clean, interactive, and user-friendly web experiences**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+for+the+web+%F0%9F%8C%90;Learning+React+%26+modern+frontend;Turning+ideas+into+interfaces+%F0%9F%92%A1;Building+in+public+%F0%9F%9A%80" alt="Typing SVG" />
 
-I started with vanilla HTML, CSS, and JavaScript, and have been progressively moving into React and modern frontend development by building projects and learning through hands-on practice.
+<br/>
 
-I believe the best way to learn development is to **build things, break things, figure them out, and build again.**
+<a href="https://ebadcommits.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111827?style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/ebad-sheikh-35095a251/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 🚀 What I'm Working With
+## 🧑‍💻 About Me
+
+I'm **Ebad**, a self-taught frontend developer who enjoys turning ideas into interactive, user-focused experiences.
+
+I started by learning the fundamentals of **HTML, CSS and JavaScript**, then moved into **React and Tailwind CSS** to build more structured applications.
+
+I'm especially interested in the intersection of:
+
+> **Code × Design × Creativity × Problem Solving**
+
+I don't just want to learn technologies — I want to understand **how to use them to build things people actually want to use.**
+
+Right now, I'm focused on strengthening my React fundamentals, building real projects, and sharing the journey publicly.
+
+---
+
+## ⚡ What I'm Working On
+
+```text
+🎯 Current focus
+├── React.js
+├── JavaScript problem solving
+├── Tailwind CSS
+├── Frontend architecture
+└── Building real projects
+
+🚀 Next up
+├── Next.js
+├── Full-stack development
+├── Backend & databases
+├── Cloud technologies
+└── AI-powered applications
+```
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
 
-`HTML5` · `CSS3` · `JavaScript (ES6+)` · `React` · `Tailwind CSS`
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-### Tools & Workflow
+### Tools
 
-`Git` · `GitHub` · `VS Code` · `Figma`
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
-### Currently Learning
+### Other Skills
 
-`React` → `Next.js` → `Full-Stack Development`
-
-I'm also exploring how **AI can be integrated into modern web applications**.
-
----
-
-## 🧠 My Development Journey
-
-I learn by building progressively more challenging projects.
-
-**Vanilla JavaScript**
-
-→ UI design, animations, DOM manipulation & application logic
-
-**React**
-
-→ Components, state, routing, Context API & API integration
-
-**Next**
-
-→ Full-stack applications, databases, authentication & deployment
-
-My goal is to grow into a developer who can take an idea from **concept → interface → application → deployment**.
+<p>
+<img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
+<img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge" />
+</p>
 
 ---
 
-## ⭐ Featured Projects
+# 🚀 Featured Projects
 
-### 💻 [We-Code](https://github.com/ebadcommits/We-Code.)
+Some projects that represent different stages of my journey:
 
-A highly visual, animation-driven website designed to make visitors fall in love with coding.
+<table>
+<tr>
+<td width="50%">
 
-**HTML · CSS · JavaScript · Swiper.js**
+### 🐑 Flock by Ebad
+
+A frontend product challenge completed under a **3-day deadline** — from research and idea development to design, implementation and integration.
+
+**Focus:** Product thinking · UI/UX · JavaScript · Frontend
+
+<a href="https://github.com/ebadcommits/FlockbyEbad">View Repository →</a>
+
+</td>
+
+<td width="50%">
+
+### 💻 We-Code.
+
+My **first ever website**.
+
+A creative, animation-heavy frontend experience inspired by the visual ambition of award-style websites — built from scratch with my own content and concept.
+
+**Focus:** CSS · Animations · UI/UX · Storytelling
+
+<a href="https://github.com/ebadcommits/We-Code.">View Repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 Auth App
+
+A React authentication-flow project exploring protected routes, Context API, localStorage persistence and dashboard architecture.
+
+**Focus:** React · Routing · State · Component Architecture
+
+<a href="https://github.com/ebadcommits/auth-app">View Repository →</a>
+
+</td>
+
+<td width="50%">
+
+### 📚 Book Finder
+
+A React application that explores working with external data and asynchronous UI states.
+
+**Focus:** React · APIs · useEffect · Loading & Error States
+
+<a href="https://github.com/ebadcommits/book-finder">View Repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🍣 Sushi Restaurant
+
+A responsive restaurant experience focused heavily on visual design, animations and frontend presentation.
+
+**Focus:** HTML · CSS · JavaScript · UI/UX
+
+<a href="https://github.com/ebadcommits/Sushi-Restaurant">View Repository →</a>
+
+</td>
+
+<td width="50%">
+
+### 🧑‍💻 Portfolio
+
+My personal portfolio — bringing together my projects, skills and frontend journey in one place.
+
+**Focus:** Frontend · JavaScript · Personal Branding
+
+<a href="https://github.com/ebadcommits/Portfolio">View Repository →</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🍣 [Sushi Restaurant](https://github.com/ebadcommits/Sushi-Restaurant)
-
-A responsive restaurant website focused on aesthetic UI, animations, and structured CSS using BEM.
-
-**HTML · CSS · JavaScript · AOS**
-
----
-
-### 🧮 [Microsoft Calculator](https://github.com/ebadcommits/Microsoft-Calculator)
-
-A recreation of the Windows Calculator built to practice JavaScript logic, input handling, edge cases, and UI behavior.
-
-**HTML · CSS · JavaScript**
-
----
-
-### 🍔 [Flock](https://github.com/ebadcommits/FlockbyEbad)
-
-A frontend product challenge created from concept to implementation within a three-day interview deadline.
-
-**HTML · CSS · JavaScript**
-
----
-
-### 📚 [Book Finder](https://github.com/ebadcommits/book-finder)
-
-A React application built to practice external API integration, search functionality, asynchronous data, and dynamic rendering.
-
-**React · Vite · Tailwind CSS · API**
-
----
-
-### 🔐 [Authentication App](https://github.com/ebadcommits/auth-app)
-
-A React application focused on authentication flows, protected routes, Context API, routing, and persistent state.
-
-**React · React Router · Context API · Tailwind CSS**
-
----
-
-## 🌱 Currently Building
-
-I'm now moving beyond practice projects and focusing on building **real-world applications** while documenting the process.
-
-My current direction:
+# 🧠 Currently Learning
 
 ```text
-Frontend
+JavaScript
    ↓
-React
+React.js
    ↓
 Next.js
    ↓
-Full-Stack
+Full-Stack Development
    ↓
-Cloud & AI-powered applications
+Cloud + AI Integrations
 ```
 
-I'm especially interested in building products that solve real problems rather than simply creating projects for a portfolio.
+I'm deliberately focusing on **understanding fundamentals before jumping into abstractions**.
+
+The goal isn't to collect technologies.
+
+The goal is to become someone who can **take an idea → break down the problem → design it → build it → ship it.**
 
 ---
 
-## 📈 Building in Public
+# 🏗️ Building in Public
 
-I'm starting to document my development journey on LinkedIn — sharing projects, experiments, things I'm learning, challenges I run into, and what I'm building next.
+I'm starting to document the journey instead of only showing the finished results.
 
-If you're interested in following the journey, feel free to connect.
+Expect posts about:
+
+* 🧩 Problems I'm solving
+* 💡 Ideas I'm experimenting with
+* ⚛️ React concepts I'm learning
+* 🛠️ Projects I'm building
+* 🐛 Bugs and mistakes
+* 📈 Progress and lessons
+* 🚀 Things I ship
+
+Follow along on LinkedIn if you'd like to see the process.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ebad-sheikh-35095a251/">
+<img src="https://img.shields.io/badge/Follow%20the%20Journey%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ebadcommits&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebadcommits&layout=compact&hide_border=true&theme=transparent" height="170" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ebadcommits&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## 💭 A Little More About Me
+
+* 🎨 I enjoy combining **development and visual design**
+* 🧠 I like understanding **why** something works, not just making it work
+* 🧩 I practice JavaScript logic through dedicated problem solving
+* 🎬 I also work with professional video-editing tools
+* 📚 I'm continuously learning and documenting the process
+* 🚀 I want to build products that are useful, meaningful and memorable
 
 ---
 
 ## 🤝 Let's Connect
 
-**LinkedIn:**
-https://www.linkedin.com/in/ebad-sheikh-35095a251/
+<div align="center">
 
-**Portfolio:**
-https://ebadcommits.github.io/Portfolio/
+<a href="https://ebadcommits.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
-**GitHub:**
-https://github.com/ebadcommits
+<a href="https://www.linkedin.com/in/ebad-sheikh-35095a251/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ibbee000@outlook.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</a>
+
+<a href="https://github.com/ebadcommits">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-### 💡 Always learning. Always building.
+<div align="center">
+
+### `BUILD • LEARN • SHIP • REPEAT`
+
+<sub>Still learning. Still building. Still figuring things out.</sub>
+
+</div>
