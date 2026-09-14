@@ -229,19 +229,16 @@ Follow along on LinkedIn if you'd like to see the process.
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ebadcommits&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebadcommits&layout=compact&hide_border=true&theme=transparent" height="170" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ebadcommits&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=ebadcommits&hide_border=true&theme=transparent" height="170" />
 
 </div>
+
 
 
 ---
