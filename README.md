@@ -17,7 +17,7 @@
 <a href="https://ebadcommits.github.io/Portfolio/">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111827?style=for-the-badge" />
 </a>
-<a href="https://www.linkedin.com/in/ebad-sheikh-35095a251/">
+<a href="https://www.linkedin.com/in/ebad-sheikh/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -221,7 +221,7 @@ Follow along on LinkedIn if you'd like to see the process.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ebad-sheikh-35095a251/">
+<a href="https://www.linkedin.com/in/ebad-sheikh/">
 <img src="https://img.shields.io/badge/Follow%20the%20Journey%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -248,7 +248,7 @@ Follow along on LinkedIn if you'd like to see the process.
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/ebad-sheikh-35095a251/">
+<a href="https://www.linkedin.com/in/ebad-sheikh/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
